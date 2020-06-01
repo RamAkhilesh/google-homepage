@@ -1,0 +1,2 @@
+# The Odin Project - [Assignment I](https://www.theodinproject.com/courses/web-development-101/lessons/html-css)
+Cloning Google homepage as a part of [Web Development 101](https://www.theodinproject.com/courses/web-development-101)
